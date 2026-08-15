@@ -1,0 +1,7 @@
+*.apk
+*.aab
+*.ipa
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
