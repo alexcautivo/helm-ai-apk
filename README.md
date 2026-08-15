@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/wordmark.svg" alt="Helm AI" width="720" />
+  <img src="docs/logo.png" alt="Helm — Take control of your identity" width="360" />
 </p>
 
 <p align="center">
@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/alexcautivo/helm-ai-apk/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/alexcautivo/helm-ai-apk?style=for-the-badge&color=3D9CF0&labelColor=0F1419" /></a>
-  <a href="https://github.com/alexcautivo/helm-ai-apk/releases"><img alt="Android APK" src="https://img.shields.io/badge/Android-APK-3CB371?style=for-the-badge&labelColor=0F1419" /></a>
+  <a href="https://github.com/alexcautivo/helm-ai-apk/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/alexcautivo/helm-ai-apk?style=for-the-badge&color=C4B5FD&labelColor=0B0B0B" /></a>
+  <a href="https://github.com/alexcautivo/helm-ai-apk/releases"><img alt="Android APK" src="https://img.shields.io/badge/Android-APK-A78BFA?style=for-the-badge&labelColor=0B0B0B" /></a>
 </p>
 
 <p align="center">
