@@ -34,8 +34,8 @@ Si ya tenías una versión anterior, instalá encima: se conservan la cuenta y l
 | | |
 |---|---|
 | Plataforma | Android |
-| Actual | **v0.1.60** |
-| Nombre del archivo | `helm-ai-0.1.60-https.apk` |
+| Actual | **v0.1.61** |
+| Nombre del archivo | `helm-ai-0.1.61-https.apk` |
 | Peso | ~154 MB |
 | Servidor | HTTPS (Railway) |
 
@@ -57,6 +57,7 @@ Si ya tenías una versión anterior, instalá encima: se conservan la cuenta y l
 
 | Versión | Fecha | APK |
 |---|---|---|
+| 0.1.61 | 14 ago 2026 | [Release](https://github.com/alexcautivo/helm-ai-apk/releases/tag/v0.1.61) |
 | 0.1.60 | 14 ago 2026 | [Release](https://github.com/alexcautivo/helm-ai-apk/releases/tag/v0.1.60) |
 
 Cada build nueva aparece en [Releases](https://github.com/alexcautivo/helm-ai-apk/releases).
