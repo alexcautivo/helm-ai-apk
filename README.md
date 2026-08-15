@@ -34,8 +34,8 @@ Si ya tenías una versión anterior, instalá encima: se conservan la cuenta y l
 | | |
 |---|---|
 | Plataforma | Android |
-| Actual | **v0.1.63** |
-| Nombre del archivo | `helm-ai-0.1.63-https.apk` |
+| Actual | **v0.1.64** |
+| Nombre del archivo | `helm-ai-0.1.64-https.apk` |
 | Peso | ~155 MB |
 | Servidor | HTTPS (Railway) |
 
@@ -46,6 +46,7 @@ Si ya tenías una versión anterior, instalá encima: se conservan la cuenta y l
 - Chat y un agente
 - Shop: una prenda debería abrir la app SHEIN si la tenés instalada
 - Ajustes → Novedades, Reportar error y Sugerir funcionalidad
+- Cambiar el aspecto y mirar la tira LED (si hay avisos) entre el plan y los looks
 - Si algo falla, copiá el **código** del aviso y mandalo
 
 ## Qué no es esto
@@ -58,6 +59,7 @@ Si ya tenías una versión anterior, instalá encima: se conservan la cuenta y l
 
 | Versión | Fecha | APK |
 |---|---|---|
+| 0.1.64 | 15 ago 2026 | [Release](https://github.com/alexcautivo/helm-ai-apk/releases/tag/v0.1.64) |
 | 0.1.63 | 15 ago 2026 | [Release](https://github.com/alexcautivo/helm-ai-apk/releases/tag/v0.1.63) |
 | 0.1.62 | 14 ago 2026 | [Release](https://github.com/alexcautivo/helm-ai-apk/releases/tag/v0.1.62) |
 | 0.1.61 | 14 ago 2026 | [Release](https://github.com/alexcautivo/helm-ai-apk/releases/tag/v0.1.61) |
